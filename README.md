@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Hi, I'm Maryam 👋
-
 Data & Analytics Scientist combining business analytics (Power BI, SQL, Excel) with chemometrics and machine learning in R and Python to build reliable, GMP/ISO‑aligned insights for science and industry.
 
 ---
