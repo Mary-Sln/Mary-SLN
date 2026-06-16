@@ -6,7 +6,7 @@ Data & Analytics Scientist combining business analytics (Power BI, SQL, Excel) w
 
 ## About me
 
-- PhD in Chemometrics and Analytical Science, experienced in QC management, method validation, and DoE-based optimization.  
+- Qualified in applied statistic in chemistry (Chemometrics) and Analytical Science, experienced in QC management, method validation, and DoE-based optimization.  
 - Comfortable working with experimental, clinical, and production data to build predictive and monitoring models.  
 - Interested in roles across Data & Business Analytics, R&D, and Biostatistics/Clinical Data.
 
